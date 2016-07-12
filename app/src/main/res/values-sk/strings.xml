@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="downloading">Sťahovanie.. </string>
+    <string name="app_name">Unicode</string>
+    <string name="job_done">Hotovo!</string>
+    <string name="warning">Upozornenie!</string>
+    <string name="check">Skontrolovať</string>
+    <string name="install">Inštalovať</string>
+    <string name="uninstall">Odinštalovať</string>
+    <string name="reboot">Reštart</string>
+    <string name="ok">OK</string>
+    <string name="status">Stav: <b>Aktivované</b></string>
+    <string name="status2">Stav: <b>Neaktivované</b></string>
+    <string name="download">Stiahnuť</string>
+    <string name="update">Dostupná nová verzia!</string>
+    <string name="chengelog">Zoznam zmien:
+        \n%1$s</string>
+    <string name="device_version">Lokálna verzia: %1$s</string>
+    <string name="server_version">Verzia na serveri: %1$s</string>
+    <string name="new_version">Dostupná nová verzia: </string>
+    <string name="no_network">Žiadne internetové pripojenie!</string>
+	<string name="no_space">Nie je dostatok voľného miesta na systémovom úložisku. Inštalácia tejto úpravy nie je bezpečná a môže spôsobiť nestabilitu systému.</string>
+    <string name="no_apply">Úpravená aplikácia už je nainštalovaná!</string>
+    <string name="no_file">Najskôr stiahnite upravenú aplikáciu!</string>
+    <string name="no_update">Nie je dostupná nová verzia!\nSkúste to znova neskôr.</string>
+    <string name="new_update">Dostupná nová verzia, prebieha sťahovanie&#8230;</string>
+    <string name="install_done">Úspešne nainštalované, reštartujte vaše zariadenie.</string>
+    <string name="apply">Chcete nainštalovať teraz?</string>
+    <string name="noroot">Povoľte práva ROOT pre Unicode!</string>
+    <string name="nosupport">Vaše zariadenie nie je momentálne podporované.</string>
+    <string name="caution">Autor ZduneX25. Všetky práva vyhradené. Preklad SK od ingbrzy (miuios.cz).</string>
+    <string name="caution_install">Odporúčame inštalovať len ak sa verzie zhodujú.</string>
+    
+</resources>

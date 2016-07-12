@@ -1,0 +1,79 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <!-- the theme applied to the application or activity -->
+    <style name="CustomActionBarTheme" parent="@android:style/Theme.Light.NoTitleBar">
+		<item name="android:windowBackground">@drawable/window_bg_light</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:dialogTheme">@style/Theme.Light.Dialog</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:progressBarStyleHorizontal">@style/Widget.Holo.Light.ProgressBar.Horizontal</item>
+    </style>
+    <style name="Widget.Holo.Light.ProgressBar.Horizontal" parent="@android:style/Widget.Holo.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_holo_light</item>
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="MyActionBar"
+           parent="android:Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/actionbar_background</item>
+    </style>
+    <style name="Theme.Holo.Light.Dialog" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="Theme.Light.Dialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:textAppearanceMedium">@style/TextAppearance.Medium.Dialog.Light</item>
+        <item name="android:windowBackground">@drawable/dialog_bg_light</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/Widget.DialogTitle</item>
+        <item name="android:windowAnimationStyle">@style/Animation.Dialog</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:actionModeBackground">@drawable/action_mode_bg_dialog_light</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:actionModeSplitBackground">@drawable/action_mode_split_bg_dialog_light</item>
+        <item name="android:windowMinWidthMajor">100%</item>
+        <item name="android:windowMinWidthMinor">100%</item>
+    </style>
+    <style name="TextAppearance.Medium.Dialog" parent="@android:style/TextAppearance.Medium" />
+    <style name="TextAppearance.Medium.Dialog.Light" parent="@style/TextAppearance.Medium.Dialog">
+        <item name="android:textColor">#66000000</item>
+    </style>
+    <style name="Animation.Dialog" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+    <style name="Widget.DialogTitle" parent="@android:style/Widget">
+        <item name="android:textSize">14.5sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#cc000000</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

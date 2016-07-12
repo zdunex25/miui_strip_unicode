@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="downloading">Downloading.. </string>
+    <string name="app_name">Unicode</string>
+    <string name="job_done">Done!</string>
+    <string name="warning">Warning!</string>
+    <string name="check">Check</string>
+    <string name="install">Install</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="reboot">Reboot</string>
+    <string name="ok">Got it</string>
+    <string name="status">Status: <b>Activated</b></string>
+    <string name="status2">Status: <b>Not activated</b></string>
+    <string name="download">Download now</string>
+    <string name="update">There is new update!</string>
+    <string name="update_mod" translatable="false">%4$s</string>
+    <string name="chengelog">Changelog:
+        \n%1$s</string>
+    <string name="device_version">Local version: %1$s</string>
+    <string name="server_version">Server version: %1$s</string>
+    <string name="new_version">New verson available: </string>
+    <string name="no_network">No network connection found!</string>
+    <string name="no_space">No free space left on system partition to install mod safely!</string>
+    <string name="no_apply">Mod already occurs in system!</string>
+    <string name="no_file">You have to download mod first!</string>
+    <string name="no_update">New version is coming!\nCheck later.</string>
+    <string name="new_update">New version available, downloading&#8230;</string>
+    <string name="install_done">Everything went well, reboot your device.</string>
+    <string name="apply">Would you like to install now?</string>
+    <string name="noroot">Enable ROOT for Unicode!</string>
+    <string name="nosupport">Your device is not yet supported, future steps will not take any effect.</string>
+    <string name="caution">Designed by ZduneX25. All Right Reserved.</string>
+    <string name="caution_install">I highly recommend to install only when both server and local version equals.</string>
+    <string name="url_down" translatable="false">http://91.205.75.29//zdunex25/wip/MIUIPolska_Mms-mod_%1$s-%2$s-%3$s.zip</string>
+    <string name="url_down2" translatable="false">https://basketbuild.com/uploads/devs/ZduneX25/miuiv8/wip/sms/%1$s/Unicode_%1$s-%2$s-%3$s.zip</string>
+    
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="downloading">Stahování.. </string>
+    <string name="app_name">Unicode</string>
+    <string name="job_done">Hotovo!</string>
+    <string name="warning">Varování!</string>
+    <string name="check">Zkontrolovat</string>
+    <string name="install">Aktivovat</string>
+    <string name="uninstall">Deaktivovat</string>
+    <string name="reboot">Restartovat</string>
+    <string name="ok">Rozumím</string>
+    <string name="status">Stav: <b>Aktivní</b></string>
+    <string name="status2">Stav: <b>Neaktivní</b></string>
+    <string name="download">Stáhnout nyní</string>
+    <string name="update">Dostupná nová aktualizace!</string>
+    <string name="chengelog">Přehled změn:
+        \n%1$s</string>
+    <string name="device_version">Nainstalovaná verze: %1$s</string>
+    <string name="server_version">Verze na serveru: %1$s</string>
+    <string name="new_version">Dostupná nová verze: </string>
+    <string name="no_network">Žádné internetové připojení!</string>
+	<string name="no_space">Pro bezpečné nainstalování módu, není v systémovém oddílu více než 8MB volného místa!</string>
+    <string name="no_apply">Mód je aktivní!</string>
+    <string name="no_file">Nejprve zvol možnost stáhnout!</string>
+    <string name="no_update">Nová verze již brzy!\nZkontroluj později.</string>
+    <string name="new_update">Dostupná nová verze, stahování&#8230;</string>
+    <string name="install_done">Vše v pořádku, restartuj zařízení.</string>
+    <string name="apply">Instalovat nyní?</string>
+    <string name="noroot">Povol ROOT práva pro Unicode!</string>
+    <string name="nosupport">Vaše zařízení není podporováno, nebudou provedeny žádné změny.</string>
+    <string name="caution">Vytvořil ZduneX25. Všechna práva vyhrazena. Do CZ přeložil zienteks (miuios.cz)</string>
+    <string name="caution_install">Doporučujeme instalovat pouze tehdy, kdy se verze shodují.</string>
+    
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="downloading">Pobieranie.. </string>
+    <string name="app_name">Ogonki</string>
+    <string name="job_done">Gotowe!</string>
+    <string name="warning">Ważne!</string>
+    <string name="check">Sprawdź</string>
+    <string name="install">Zainstaluj</string>
+    <string name="uninstall">Odinstaluj</string>
+    <string name="reboot">Uruchom ponownie</string>
+    <string name="ok">Rozumiem</string>
+    <string name="status">Stan: <b>Zainstalowano</b></string>
+    <string name="status2">Stan: <b>Nie zainstalowano</b></string>
+    <string name="download">Pobierz teraz</string>
+    <string name="update">Znaleziono aktualizację!</string>
+    <string name="chengelog">Lista zmian:
+        \n%1$s</string>
+    <string name="device_version">Wersja w telefonie: <b>%1$s</b></string>
+    <string name="server_version">Wersja na serwerze: <b>%1$s</b></string>
+    <string name="new_version">Dostępna nowa wersja: </string>
+    <string name="no_network">Brak połączenia z Internetem!</string>
+	<string name="no_space">Brak wystarczającej ilości wolnego miejsca w systemie do bezpiecznej instalacji moda!</string>
+    <string name="no_apply">Mod jest już zainstalowany!</string>
+    <string name="no_file">Pobierz mod by móc go zainstalować!</string>
+    <string name="no_update">Nowsza wersja w przygotowaniu!\nSprawdź ponownie później.</string>
+    <string name="new_update">Dostępna nowa wersja, pobieranie&#8230;</string>
+    <string name="install_done">Operacja przebiegła pomyślnie, teraz wystarczy zrestartować telefon.</string>
+    <string name="apply">Pobrano. Zainstalować teraz?</string>
+    <string name="noroot">Włącz ROOTa dla aplikacji Ogonki!</string>
+    <string name="nosupport">Twoje urządzenie nie jest wspierane, próby instalacji spełzną na niczym.</string>
+    <string name="caution">Zaprojektowane przez ZduneX25. Wszystkie prawa zastrzeżone.</string>
+    <string name="caution_install">Nie zaleca się instalacji nowszych wersji MODa używając starszej wersji systemu i odwrotnie!</string>
+    
+</resources>
