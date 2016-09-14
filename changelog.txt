@@ -1,3 +1,0 @@
-﻿- wsparcie MIUI8
-- dodane mimax i mimaxpro
-- poprawki bledow

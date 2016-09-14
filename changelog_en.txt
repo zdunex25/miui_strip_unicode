@@ -1,3 +1,0 @@
-﻿- support for MIUI8
-- new mimax and mimaxpro
-- bugfixes
